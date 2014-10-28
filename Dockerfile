@@ -1,6 +1,6 @@
 FROM centos:centos7
 
-MAINTAINER James Cunningham <jcunningham@cpbgroup.com>
+MAINTAINER James Cunningham <james@einherj.ar.com>
 
 ENV MAJ 2
 ENV MIN 44
